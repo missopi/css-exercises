@@ -6,3 +6,14 @@
 .large {
     font-size: 24px;
 }
+
+#two {
+    color: rgb(56, 56, 222);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(156, 249, 156);
+    font-size: 24px;
+    font-weight: bold;
+}
